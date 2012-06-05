@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<paxosSystem>
+	<index>1</index>
+	<machine>
+		<port>4655</port>
+		<ip>132.68.60.71</ip>
+		<acceptor>true</acceptor>
+	</machine>
+	<machine>
+		<port>4656</port>
+		<ip>132.68.60.70</ip>
+		<acceptor>true</acceptor>
+	</machine>
+</paxosSystem>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<paxosSystem>
+	<index>1</index>
+	<machine>
+		<port>1</port>
+		<ip>127.0.0.1</ip>
+		<acceptor>false</acceptor>
+	</machine>
+	<machine>
+		<port>2</port>
+		<ip>127.0.0.2</ip>
+		<acceptor>false</acceptor>
+	</machine>
+	<machine>
+		<port>3</port>
+		<ip>127.0.0.3</ip>
+		<acceptor>false</acceptor>
+	</machine>
+	<machine>
+		<port>4</port>
+		<ip>127.0.0.4</ip>
+		<acceptor>false</acceptor>
+	</machine>
+	<machine>
+		<port>5</port>
+		<ip>127.0.0.5</ip>
+		<acceptor>false</acceptor>
+	</machine>
+</paxosSystem>
