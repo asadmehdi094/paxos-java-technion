@@ -1,0 +1,1 @@
+Based on the paxos paper. Done as a University Project: Technion.
